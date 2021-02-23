@@ -1,0 +1,47 @@
+.header{
+  background-color: #e8ffff;
+  position: relative;
+  padding-top: 100px;
+}
+.laptop{
+position: absolute;
+width: 4%;
+left: 900px;
+bottom: 350px
+}
+.robot{
+width: 5%;
+position: absolute;
+right: 800px;
+top: 120px
+}
+.controlpic{
+width: 30%;
+margin-top: 10px;
+}
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #f6f5f1;
+  font-family: 'Merriweather', serif;
+}
+.intro{
+
+}
+h1{
+  font-size: 5.625rem ;
+  color: #056674;
+  line-height: 2
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-size:2.5rem;
+  color: #056674;
+  font-family: 'Montserrat' sans-serif;
+  margin: 0;
+}
+h3{
+  color: #056674;
+  font-family: 'Montserrat' sans-serif;
+}
